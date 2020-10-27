@@ -1,1 +1,2 @@
-This is a wonderful story
+This is a wonderful story.
+I am editing this file to view changes
